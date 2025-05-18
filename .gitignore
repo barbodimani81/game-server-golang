@@ -1,0 +1,7 @@
+# .gitignore for Go
+/bin/
+/pkg/
+*.exe
+*.log
+*.test
+*.out
